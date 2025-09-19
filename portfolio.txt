@@ -1,0 +1,5 @@
+you invest IBM with quantity 2  
+you invest MCD with quantity 3  
+you invest APPLE with quantity 4  
+you invest TESLA with quantity 1  
+your total investment is Rs 2160
